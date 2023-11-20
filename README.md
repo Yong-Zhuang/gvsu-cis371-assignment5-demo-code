@@ -25,6 +25,10 @@ Install the required packages:
 npm install
 ```
 
+### Configuring Firebase
+
+Add your Firebase configuration to `data-controller.ts` to connect the project with your Firestore database.
+
 ### Running the Development Server
 
 Start the local development server:
